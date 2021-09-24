@@ -1,6 +1,8 @@
 # IEEE-TSM-WaferData
-Wafer Bin Map data used in "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-type Spatial Pattern Recognition in Wafer Bin Maps"
-
-This repository contains the full data used in the numerical experiments of our paper titled: A. Ezzat, Liu, S., Hochbaum, D., and Ding, Y., "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-type Spatial Pattern Recognition in Wafer Bin Maps," IEEE Transactions on Semiconductor Manufacturing, 2021, 34(2), 194-206.  
-
-The dataset was extracted and processed from a larger dataset, which can be cited at: M.-J. Wu, J.-S. R. Jang, and J.-L. Chen, “Wafer map failure pattern recognition and similarity ranking for large-scale data sets,” IEEE Transactions on Semiconductor Manufacturing, vol. 28, no. 1, pp. 1–12, 2014. 
+All Wafer maps are downloaded from the full dataset available at Prof. Roger Jang's public repository: http://mirlab.org/dataSet/public/ 
+which is described in detail in: Wu et al., “Wafer map failure pattern recognition and similarity ranking for large-scale data sets,” 
+IEEE Transactions on Semiconductor Manufacturing, vol. 28, no. 1, pp. 1–12, 2014. 
+ 
+The R code imports and visualizes the 12 wafer maps, written by Ahmed Aziz Ezzat (aziz.ezzat@rutgers.edu) -- Last edited in FEB 2021
+and is used in the following paper: Ezzat et al., "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-type Spatial Pattern Recognition in Wafer Bin Maps,"
+IEEE Transactions on Semiconductor Manufacturing, 2021, 34(2), 194-206.  
