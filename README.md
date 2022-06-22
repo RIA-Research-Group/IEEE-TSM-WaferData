@@ -4,5 +4,4 @@ which is described in detail in: Wu et al., “Wafer map failure pattern recogni
 IEEE Transactions on Semiconductor Manufacturing, vol. 28, no. 1, pp. 1–12, 2014. 
  
 The R code imports and visualizes the 12 wafer maps, written by Ahmed Aziz Ezzat (aziz.ezzat@rutgers.edu) -- Last edited in FEB 2021
-and is used in the following paper: Ezzat et al., "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-type Spatial Pattern Recognition in Wafer Bin Maps,"
-IEEE Transactions on Semiconductor Manufacturing, 2021, 34(2), 194-206.  
+and is used in the following paper: Ezzat et al., "A Graph-Theoretic Approach for Spatial Filtering and Its Impact on Mixed-type Spatial Pattern Recognition in Wafer Bin Maps," IEEE Transactions on Semiconductor Manufacturing, 2021, 34(2), 194-206. Link to paper: https://ieeexplore.ieee.org/abstract/document/9366812
